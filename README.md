@@ -1,4 +1,4 @@
-![]("https://giphy.com/embed/vgd2aXjyeUkgUTnfjg")
+![]("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdwYXF6dHo2NGhjMm81ZHRodm81MGgwNDdiM202N2hwNXpzYzloMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif")
 ### 🔥 About me
 
 Hey there! I’m a **2nd-year AI student** at FPT University, constantly pushing myself to bridge the gap between high-level code and theoretical foundations. 
