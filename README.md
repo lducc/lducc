@@ -15,18 +15,21 @@ Let’s connect - I'm always up for a research challenge or a deep dive into a n
 
 <a href="https://pytorch.org/" target="_blank" title="PyTorch"><img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
 
+<a href="https://scikit-learn.org/" target="_blank" title="scikit-learn"><img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></a>
+
 <a href="https://www.python.org/" target="_blank" title="Python"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-
-
-<a href="https://www.latex-project.org/" target="_blank" title="LaTeX"><img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>
 
 <a href="https://numpy.org/" target="_blank" title="NumPy"><img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
 
 <a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>
 
+<a href="https://www.latex-project.org/" target="_blank" title="LaTeX"><img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></a>
+
 <a href="https://git-scm.com/" target="_blank" title="Git"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 
-<a href="https://www.linux.org/" target="_blank" title="Linux"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+<a href="https://www.docker.com/" target="_blank" title="Docker"><img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
 
 </br>
 </br>
