@@ -4,10 +4,8 @@
 
 ### 🔥 About me
 
-Hey there! I’m a **2nd-year AI student** at FPT University, constantly pushing myself to bridge the gap between high-level code and theoretical foundations. 
-💡 **Always striving for:** Deeper theoretical insights, cleaner research implementations, and more rigorous math.  
-
-Let’s connect - I'm always up for a research challenge or a deep dive into a new paper/ project!
+Hi! I’m a **2nd-year AI student** at FPT University.
+I like math, I like games, I like AI, probably should stop overfitting my brain and my models
 
 ---
 
