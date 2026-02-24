@@ -4,8 +4,8 @@
 
 ### 🔥 About me
 
-Hi! I’m a **2nd-year AI student** at FPT University.
-I like math, I like games, I like AI, probably should stop overfitting my brain and my models
+Hi! I’m a **2nd-year AI student** at FPT University.\
+I like math, I like games, I like AI, probably should stop overfitting my brain and my models. 
 
 ---
 
