@@ -6,6 +6,7 @@
 
 Hi! I’m a **2nd-year AI student** at FPT University.\
 I enjoy math, games, and learning how AI systems work, preferably without overfitting my brain or my models. 
+
 ---
 
 ### Toolkit
