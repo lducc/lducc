@@ -12,12 +12,6 @@ Still trying to understand AI without overfitting my brain to the benchmark.
 
 ---
 
-### Research interests
-
-`NLP` `Information Retrieval` `LLMs` `Multimodal Learning` `Representation Learning` `Evaluation & Reliability`
-
----
-
 ### Toolkit
 
 <a href="https://pytorch.org/" target="_blank" title="PyTorch"><img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
