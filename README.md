@@ -2,10 +2,19 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdwYXF6dHo2NGhjMm81ZHRodm81MGgwNDdiM202N2hwNXpzYzloMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" width="400px" />
 </p>
 
-### 🔥 About me
+### About me
 
-Hi! I’m a **2nd-year AI student** at FPT University.\
-I enjoy math, games, and learning how AI systems work, preferably without overfitting my brain or my models. 
+Hi! I'm a **3rd-year AI student at FPT University** interested in **NLP, retrieval, LLMs, multimodal systems, and machine learning research**.
+
+I enjoy math, games, reading papers, and turning simple questions into experiments. I'm especially interested in why AI systems work, where they fail, and whether a complicated method can be replaced by something much simpler.
+
+Still trying to understand AI without overfitting my brain to the benchmark.
+
+---
+
+### Research interests
+
+`NLP` `Information Retrieval` `LLMs` `Multimodal Learning` `Representation Learning` `Evaluation & Reliability`
 
 ---
 
@@ -29,12 +38,12 @@ I enjoy math, games, and learning how AI systems work, preferably without overfi
 
 <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
 
-</br>
-</br>
+<br/>
+<br/>
 
 ---
 
-### 🤙 Social & Connections
+### Social & connections
 
 [<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/lducc/)
 [<img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/gmail-new.png" />](mailto:lducc.work@gmail.com)
