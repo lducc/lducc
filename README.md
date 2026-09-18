@@ -8,7 +8,7 @@ Hi! I'm a **3rd-year AI student at FPT University** interested in **NLP, retriev
 
 I enjoy math, games, reading papers, and turning simple questions into experiments. I'm especially interested in why AI systems work, where they fail, and whether a complicated method can be replaced by something much simpler.
 
-Still trying to understand AI without overfitting my brain to the benchmark.
+Still trying to understand AI without overfitting my model or my brain.
 
 ---
 
