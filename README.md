@@ -41,6 +41,6 @@ Still trying to understand AI without overfitting my model or my brain.
 
 [<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/lducc/)
 [<img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/gmail-new.png" />](mailto:lducc.work@gmail.com)
-[<img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/facebook-new.png" />](https://www.facebook.com/da.lducc/)
+[<img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/facebook-new.png" />](https://www.facebook.com/lduccc/)
 
 <br/>
